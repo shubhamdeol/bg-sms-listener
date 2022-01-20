@@ -1,0 +1,16 @@
+{
+  "name": "react-native-android-sms-listener-background",
+  "version": "0.0.1",
+  "description": "Allows you to listen for incoming SMS messages",
+  "license": "MIT",
+  "main": "index.js",
+  "keywords": [
+    "react",
+    "native",
+    "react-native",
+    "android",
+    "sms",
+    "listener",
+    "sms-listener"
+  ]
+}
